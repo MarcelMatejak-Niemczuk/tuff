@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.left{
+    float: left;
+    background-color: brown;
+    height: 70vh;
+    width: 15%;
+}
+
+.right{
+    display: flex;
+    flex-direction: column;
+}
+
+header{
+    background-color: rgb(255, 153, 0);
+    height: 10vh;
+    width: 50%;
+}
+
+nav{
+    background-color: rgb(81, 255, 0);
+    height: 10vh;
+    width: 50%;
+}
+
+main{
+    background-color: aquamarine;
+    height: 40vh;
+    width: 50%;
+}
+
+footer{
+   background-color: rgb(255, 0, 140);
+    height: 10vh;
+    width: 50%; 
+}
